@@ -15,14 +15,14 @@
 **Блок схема основной программы**
 
 
-![блок схема основной программы ](img\1.jpg).
+![блок схема основной программы ](https://github.com/allaberezina85/final_certification_repo/blob/main/img/1.jpg).
 
 
 **Блок схемы подпрограмм**
 
 
-![блок схема подпрограммы ](img\2.jpg).
-![блок схема подпрограммы ](img\3.jpg).
+![блок схема подпрограммы ](https://github.com/allaberezina85/final_certification_repo/blob/main/img/2.jpg).
+![блок схема подпрограммы ](https://github.com/allaberezina85/final_certification_repo/blob/main/img/3.jpg).
 ### Код программы
 
 ```sh
