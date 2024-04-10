@@ -1,0 +1,15 @@
+C:\GB_Progmmist\final_certification_repo\program\obj\Debug\net8.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB_Progmmist\final_certification_repo\program\obj\Debug\net8.0\program.AssemblyInfoInputs.cache
+C:\GB_Progmmist\final_certification_repo\program\obj\Debug\net8.0\program.AssemblyInfo.cs
+C:\GB_Progmmist\final_certification_repo\program\obj\Debug\net8.0\program.csproj.CoreCompileInputs.cache
+C:\GB_Progmmist\final_certification_repo\program\obj\Debug\net8.0\program.sourcelink.json
+C:\GB_Progmmist\final_certification_repo\program\bin\Debug\net8.0\program.exe
+C:\GB_Progmmist\final_certification_repo\program\bin\Debug\net8.0\program.deps.json
+C:\GB_Progmmist\final_certification_repo\program\bin\Debug\net8.0\program.runtimeconfig.json
+C:\GB_Progmmist\final_certification_repo\program\bin\Debug\net8.0\program.dll
+C:\GB_Progmmist\final_certification_repo\program\bin\Debug\net8.0\program.pdb
+C:\GB_Progmmist\final_certification_repo\program\obj\Debug\net8.0\program.dll
+C:\GB_Progmmist\final_certification_repo\program\obj\Debug\net8.0\refint\program.dll
+C:\GB_Progmmist\final_certification_repo\program\obj\Debug\net8.0\program.pdb
+C:\GB_Progmmist\final_certification_repo\program\obj\Debug\net8.0\program.genruntimeconfig.cache
+C:\GB_Progmmist\final_certification_repo\program\obj\Debug\net8.0\ref\program.dll
