@@ -131,7 +131,7 @@ if (num!=0)
 Скриншот выполнения программы ниже:
 
 
-![консоль ](img\4.png)
+![консоль ](https://github.com/allaberezina85/final_certification_repo/blob/main/img/4.png)
 
 
 Посмотреть программу можно на удаленном [репозитории](https://github.com/allaberezina85/final_certification_repo "открыть репозиторий").
